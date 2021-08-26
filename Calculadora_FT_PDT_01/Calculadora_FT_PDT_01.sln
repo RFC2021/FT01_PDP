@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora_FT_PDT_01", "Calculadora_FT_PDT_01.csproj", "{5E9A0264-7959-4C31-AE2E-BA7E65BF42CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E9A0264-7959-4C31-AE2E-BA7E65BF42CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9A0264-7959-4C31-AE2E-BA7E65BF42CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9A0264-7959-4C31-AE2E-BA7E65BF42CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9A0264-7959-4C31-AE2E-BA7E65BF42CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A00CA73-4BC3-486D-9CB8-ECE0F29670F9}
+	EndGlobalSection
+EndGlobal
